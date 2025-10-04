@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Bernardo Duarte",
+    "phone": "+55 91 994439-7861",
+    "groups": ["Jogos", "Fornecedores"],
+    "favorite": false,
+    "_id": 1
+  },
+  {
+    "name": "Nicolas Moura",
+    "phone": "+55 94 996201-9363",
+    "groups": ["Fornecedores", "Família"],
+    "favorite": false,
+    "_id": 2
+  },
+  {
+    "name": "Lucas Martins",
+    "phone": "+55 99 996577-1326",
+    "groups": ["Amigos", "Academia"],
+    "favorite": true,
+    "_id": 3
+  },
+  {
+    "name": "Felipe Rezende",
+    "phone": "+55 81 995629-1182",
+    "groups": ["Jogos", "Clientes", "Família"],
+    "favorite": true,
+    "_id": 4
+  },
+  {
+    "name": "Marta Gomes",
+    "phone": "+55 91 993983-9613",
+    "groups": ["Trabalho", "Faculdade", "Vizinhos"],
+    "favorite": false,
+    "_id": 5
+  },
+  {
+    "name": "Bruno Santos",
+    "phone": "+55 84 994694-6936",
+    "groups": ["Vizinhos", "Trabalho"],
+    "favorite": false,
+    "_id": 6
+  },
+  {
+    "name": "João Pinto",
+    "phone": "+55 99 997992-5757",
+    "groups": ["Escola", "Faculdade"],
+    "favorite": false,
+    "_id": 7
+  },
+  {
+    "name": "Jonathan Vargas",
+    "phone": "+55 98 998284-6941",
+    "groups": ["Clientes"],
+    "favorite": true,
+    "_id": 8
+  },
+  {
+    "name": "Jonathan Figueiredo",
+    "phone": "+55 81 996994-2748",
+    "groups": ["Amigos", "Jogos", "Academia"],
+    "favorite": true,
+    "_id": 9
+  },
+  {
+    "name": "Ulrica Lopes",
+    "phone": "+55 83 999768-1027",
+    "groups": ["Clientes", "Amigos", "Jogos"],
+    "favorite": false,
+    "_id": 10
+  },
+  {
+    "name": "Yasmin Vargas",
+    "phone": "+55 91 992517-8029",
+    "groups": ["Jogos"],
+    "favorite": false,
+    "_id": 11
+  },
+  {
+    "name": "Karen Nogueira",
+    "phone": "+55 95 998912-3902",
+    "groups": ["Amigos", "Família", "Trabalho"],
+    "favorite": false,
+    "_id": 12
+  },
+  {
+    "name": "Wesley Queiroz",
+    "phone": "+55 81 996420-6429",
+    "groups": ["Fornecedores", "Família", "Vizinhos"],
+    "favorite": false,
+    "_id": 13
+  },
+  {
+    "name": "Priscila Lima",
+    "phone": "+55 82 993374-0116",
+    "groups": ["Escola", "Fornecedores"],
+    "favorite": false,
+    "_id": 14
+  },
+  {
+    "name": "Cecília Gomes",
+    "phone": "+55 91 996366-0094",
+    "groups": ["Vizinhos", "Jogos", "Escola"],
+    "favorite": false,
+    "_id": 15
+  },
+  {
+    "name": "Olavo Faria",
+    "phone": "+55 98 991235-2770",
+    "groups": ["Escola", "Clientes"],
+    "favorite": false,
+    "_id": 16
+  },
+  {
+    "name": "Mariana Peixoto",
+    "phone": "+55 99 996272-4084",
+    "groups": ["Jogos"],
+    "favorite": false,
+    "_id": 17
+  },
+  {
+    "name": "Paulo Castro",
+    "phone": "+55 84 994376-3992",
+    "groups": ["Fornecedores", "Vizinhos"],
+    "favorite": false,
+    "_id": 18
+  },
+  {
+    "name": "Karla Viana",
+    "phone": "+55 85 999304-6228",
+    "groups": ["Fornecedores", "Trabalho", "Faculdade"],
+    "favorite": false,
+    "_id": 19
+  },
+  {
+    "name": "Leandro Cavalcanti",
+    "phone": "+55 89 994206-4424",
+    "groups": ["Escola", "Jogos", "Academia"],
+    "favorite": false,
+    "_id": 20
+  },
+  {
+    "name": "Elisa Pereira",
+    "phone": "+55 21 992461-8929",
+    "groups": ["Academia"],
+    "favorite": true,
+    "_id": 21
+  },
+  {
+    "name": "Priscila Coelho",
+    "phone": "+55 41 992429-6725",
+    "groups": ["Clientes", "Fornecedores", "Faculdade"],
+    "favorite": false,
+    "_id": 22
+  },
+  {
+    "name": "Jonathan Bianco",
+    "phone": "+55 95 999022-6404",
+    "groups": ["Família", "Clientes"],
+    "favorite": false,
+    "_id": 23
+  },
+  {
+    "name": "Alice Mendes",
+    "phone": "+55 51 994035-1517",
+    "groups": ["Amigos", "Clientes", "Jogos"],
+    "favorite": false,
+    "_id": 24
+  },
+  {
+    "name": "Zara Fernandes",
+    "phone": "+55 93 995083-5428",
+    "groups": ["Academia", "Trabalho"],
+    "favorite": false,
+    "_id": 25
+  },
+  {
+    "name": "Henrique Sá",
+    "phone": "+55 41 990521-0290",
+    "groups": ["Vizinhos", "Clientes"],
+    "favorite": false,
+    "_id": 26
+  },
+  {
+    "name": "Glória Santos",
+    "phone": "+55 82 995490-0948",
+    "groups": ["Escola", "Jogos"],
+    "favorite": false,
+    "_id": 27
+  },
+  {
+    "name": "Olavo Rezende",
+    "phone": "+55 91 992199-1874",
+    "groups": ["Família"],
+    "favorite": false,
+    "_id": 28
+  },
+  {
+    "name": "Xandra Monteiro",
+    "phone": "+55 92 999668-4569",
+    "groups": ["Fornecedores"],
+    "favorite": false,
+    "_id": 29
+  },
+  {
+    "name": "Willian Vargas",
+    "phone": "+55 82 995541-3841",
+    "groups": ["Faculdade", "Academia", "Escola"],
+    "favorite": false,
+    "_id": 30
+  },
+  {
+    "name": "Leandro Faria",
+    "phone": "+55 92 993217-9641",
+    "groups": ["Academia", "Vizinhos", "Fornecedores"],
+    "favorite": false,
+    "_id": 31
+  },
+  {
+    "name": "Henrique Dias",
+    "phone": "+55 89 995125-5119",
+    "groups": ["Família"],
+    "favorite": false,
+    "_id": 32
+  },
+  {
+    "name": "Nicolas Azevedo",
+    "phone": "+55 86 992614-1689",
+    "groups": ["Clientes", "Fornecedores"],
+    "favorite": false,
+    "_id": 33
+  },
+  {
+    "name": "Ulrica Barbosa",
+    "phone": "+55 81 991487-7029",
+    "groups": ["Vizinhos", "Clientes"],
+    "favorite": false,
+    "_id": 34
+  },
+  {
+    "name": "Iara Cardoso",
+    "phone": "+55 51 999232-1448",
+    "groups": ["Vizinhos", "Fornecedores"],
+    "favorite": false,
+    "_id": 35
+  },
+  {
+    "name": "Diego Rezende",
+    "phone": "+55 31 991675-0816",
+    "groups": ["Fornecedores"],
+    "favorite": false,
+    "_id": 36
+  },
+  {
+    "name": "Diego Bianco",
+    "phone": "+55 97 994633-2074",
+    "groups": ["Trabalho", "Faculdade", "Escola"],
+    "favorite": false,
+    "_id": 37
+  },
+  {
+    "name": "Tadeu Ramos",
+    "phone": "+55 81 999245-1720",
+    "groups": ["Escola", "Clientes", "Academia"],
+    "favorite": true,
+    "_id": 38
+  },
+  {
+    "name": "Xandra Andrade",
+    "phone": "+55 91 991222-8932",
+    "groups": ["Clientes", "Fornecedores", "Amigos"],
+    "favorite": false,
+    "_id": 39
+  },
+  {
+    "name": "Yasmin Lopes",
+    "phone": "+55 51 995544-4316",
+    "groups": ["Jogos", "Trabalho"],
+    "favorite": true,
+    "_id": 40
+  },
+  {
+    "name": "Tiago Figueiredo",
+    "phone": "+55 92 998792-0517",
+    "groups": ["Jogos"],
+    "favorite": true,
+    "_id": 41
+  },
+  {
+    "name": "Felipe Andrade",
+    "phone": "+55 85 993294-2811",
+    "groups": ["Academia"],
+    "favorite": true,
+    "_id": 42
+  },
+  {
+    "name": "Sofia Rezende",
+    "phone": "+55 92 999943-7825",
+    "groups": ["Vizinhos", "Academia"],
+    "favorite": false,
+    "_id": 43
+  },
+  {
+    "name": "Isabela Martins",
+    "phone": "+55 95 999544-1297",
+    "groups": ["Trabalho"],
+    "favorite": true,
+    "_id": 44
+  },
+  {
+    "name": "Daniel Teixeira",
+    "phone": "+55 31 997534-4171",
+    "groups": ["Academia"],
+    "favorite": false,
+    "_id": 45
+  },
+  {
+    "name": "Karen Amaral",
+    "phone": "+55 89 995811-9264",
+    "groups": ["Clientes", "Vizinhos"],
+    "favorite": false,
+    "_id": 46
+  },
+  {
+    "name": "Aline Amaral",
+    "phone": "+55 71 995891-6578",
+    "groups": ["Escola", "Fornecedores"],
+    "favorite": true,
+    "_id": 47
+  },
+  {
+    "name": "Zara Xavier",
+    "phone": "+55 51 996472-7610",
+    "groups": ["Família", "Fornecedores", "Clientes"],
+    "favorite": false,
+    "_id": 48
+  },
+  {
+    "name": "João Queiroz",
+    "phone": "+55 85 998968-2898",
+    "groups": ["Jogos"],
+    "favorite": false,
+    "_id": 49
+  },
+  {
+    "name": "Vitor Batista",
+    "phone": "+55 31 997773-0770",
+    "groups": ["Amigos", "Vizinhos", "Faculdade"],
+    "favorite": false,
+    "_id": 50
+  },
+  {
+    "name": "Daniel Lopes",
+    "phone": "+55 86 993323-2734",
+    "groups": ["Família", "Amigos"],
+    "favorite": false,
+    "_id": 51
+  },
+  {
+    "name": "Jonathan Carvalho",
+    "phone": "+55 91 995220-8938",
+    "groups": ["Clientes", "Jogos"],
+    "favorite": false,
+    "_id": 52
+  },
+  {
+    "name": "Carla Nogueira",
+    "phone": "+55 89 993792-4768",
+    "groups": ["Fornecedores", "Jogos"],
+    "favorite": false,
+    "_id": 53
+  },
+  {
+    "name": "Aline Bonfim",
+    "phone": "+55 92 994996-6667",
+    "groups": ["Jogos", "Clientes", "Família"],
+    "favorite": false,
+    "_id": 54
+  },
+  {
+    "name": "Daniel Castro",
+    "phone": "+55 94 996751-3172",
+    "groups": ["Fornecedores"],
+    "favorite": false,
+    "_id": 55
+  },
+  {
+    "name": "Zara Silva",
+    "phone": "+55 86 997127-4465",
+    "groups": ["Faculdade", "Família"],
+    "favorite": false,
+    "_id": 56
+  },
+  {
+    "name": "Leandro Coelho",
+    "phone": "+55 84 992191-2092",
+    "groups": ["Amigos", "Escola", "Família"],
+    "favorite": false,
+    "_id": 57
+  },
+  {
+    "name": "Olavo Cardoso",
+    "phone": "+55 87 992323-0510",
+    "groups": ["Clientes", "Fornecedores"],
+    "favorite": false,
+    "_id": 58
+  },
+  {
+    "name": "Marta Lopes",
+    "phone": "+55 84 992904-5469",
+    "groups": ["Clientes"],
+    "favorite": false,
+    "_id": 59
+  },
+  {
+    "name": "Yasmin Figueiredo",
+    "phone": "+55 96 991470-8251",
+    "groups": ["Academia"],
+    "favorite": true,
+    "_id": 60
+  },
+  {
+    "name": "Marta Moreira",
+    "phone": "+55 11 994856-0537",
+    "groups": ["Faculdade"],
+    "favorite": false,
+    "_id": 61
+  },
+  {
+    "name": "Cecília Silva",
+    "phone": "+55 87 999777-9099",
+    "groups": ["Trabalho", "Escola", "Academia"],
+    "favorite": false,
+    "_id": 62
+  },
+  {
+    "name": "Renato Duarte",
+    "phone": "+55 88 996774-0194",
+    "groups": ["Fornecedores", "Família"],
+    "favorite": true,
+    "_id": 63
+  },
+  {
+    "name": "Willian Oliveira",
+    "phone": "+55 84 999992-8856",
+    "groups": ["Faculdade", "Amigos"],
+    "favorite": false,
+    "_id": 64
+  },
+  {
+    "name": "Mariana João Peixoto",
+    "phone": "+55 95 999136-2848",
+    "groups": ["Faculdade", "Academia", "Família"],
+    "favorite": false,
+    "_id": 65
+  },
+  {
+    "name": "Diego Lima",
+    "phone": "+55 92 997357-0700",
+    "groups": ["Fornecedores", "Amigos", "Escola"],
+    "favorite": false,
+    "_id": 66
+  },
+  {
+    "name": "Isabela Rezende",
+    "phone": "+55 91 996129-7732",
+    "groups": ["Jogos", "Escola"],
+    "favorite": false,
+    "_id": 67
+  },
+  {
+    "name": "Sofia Freitas",
+    "phone": "+55 71 996530-1740",
+    "groups": ["Amigos", "Vizinhos", "Família"],
+    "favorite": false,
+    "_id": 68
+  },
+  {
+    "name": "Yago Brandão",
+    "phone": "+55 99 998778-8178",
+    "groups": ["Clientes", "Vizinhos", "Trabalho"],
+    "favorite": true,
+    "_id": 69
+  },
+  {
+    "name": "Carla Xavier",
+    "phone": "+55 84 997673-8844",
+    "groups": ["Academia", "Trabalho", "Fornecedores"],
+    "favorite": false,
+    "_id": 70
+  },
+  {
+    "name": "Wesley Lopes",
+    "phone": "+55 87 993713-9473",
+    "groups": ["Trabalho"],
+    "favorite": false,
+    "_id": 71
+  },
+  {
+    "name": "Ximena Queiroz",
+    "phone": "+55 83 996983-9373",
+    "groups": ["Família", "Escola"],
+    "favorite": false,
+    "_id": 72
+  },
+  {
+    "name": "Iara Peixoto",
+    "phone": "+55 96 996207-3312",
+    "groups": ["Fornecedores"],
+    "favorite": true,
+    "_id": 73
+  },
+  {
+    "name": "Felipe Cruzeiro",
+    "phone": "+55 84 998932-6326",
+    "groups": ["Faculdade", "Fornecedores", "Vizinhos"],
+    "favorite": false,
+    "_id": 74
+  },
+  {
+    "name": "Victor Freitas",
+    "phone": "+55 21 990675-5971",
+    "groups": ["Academia", "Escola", "Família"],
+    "favorite": false,
+    "_id": 75
+  },
+  {
+    "name": "Elisa Ramos",
+    "phone": "+55 89 991621-7321",
+    "groups": ["Academia"],
+    "favorite": false,
+    "_id": 76
+  },
+  {
+    "name": "Yago Peixoto",
+    "phone": "+55 96 996210-3752",
+    "groups": ["Vizinhos", "Família"],
+    "favorite": false,
+    "_id": 77
+  },
+  {
+    "name": "Isabela Souza",
+    "phone": "+55 92 999618-0252",
+    "groups": ["Escola", "Família"],
+    "favorite": false,
+    "_id": 78
+  },
+  {
+    "name": "Leandro Castro",
+    "phone": "+55 21 998837-6636",
+    "groups": ["Fornecedores", "Academia"],
+    "favorite": true,
+    "_id": 79
+  },
+  {
+    "name": "Priscila Silva",
+    "phone": "+55 83 998948-8068",
+    "groups": ["Trabalho"],
+    "favorite": false,
+    "_id": 80
+  },
+  {
+    "name": "Henrique Peixoto",
+    "phone": "+55 21 998043-5780",
+    "groups": ["Família", "Escola", "Vizinhos"],
+    "favorite": false,
+    "_id": 81
+  },
+  {
+    "name": "Rafael Monteiro",
+    "phone": "+55 99 992935-2497",
+    "groups": ["Trabalho"],
+    "favorite": false,
+    "_id": 82
+  },
+  {
+    "name": "Nicolas Moreira",
+    "phone": "+55 95 994338-6009",
+    "groups": ["Academia"],
+    "favorite": false,
+    "_id": 83
+  },
+  {
+    "name": "Willian Lima",
+    "phone": "+55 99 997700-9992",
+    "groups": ["Vizinhos", "Escola", "Fornecedores"],
+    "favorite": false,
+    "_id": 84
+  },
+  {
+    "name": "Leandro Dias",
+    "phone": "+55 92 999534-1328",
+    "groups": ["Trabalho", "Clientes", "Família"],
+    "favorite": false,
+    "_id": 85
+  },
+  {
+    "name": "Iara Lopes",
+    "phone": "+55 97 997404-3568",
+    "groups": ["Jogos", "Clientes"],
+    "favorite": false,
+    "_id": 86
+  },
+  {
+    "name": "Olivia Cruzeiro",
+    "phone": "+55 96 997520-5995",
+    "groups": ["Academia", "Trabalho"],
+    "favorite": false,
+    "_id": 87
+  },
+  {
+    "name": "Daniel Correia",
+    "phone": "+55 61 999216-7521",
+    "groups": ["Academia", "Escola", "Faculdade"],
+    "favorite": true,
+    "_id": 88
+  },
+  {
+    "name": "Ulrica Martins",
+    "phone": "+55 83 994381-7959",
+    "groups": ["Família", "Escola", "Vizinhos"],
+    "favorite": false,
+    "_id": 89
+  },
+  {
+    "name": "Yago Figueiredo",
+    "phone": "+55 71 998687-5286",
+    "groups": ["Clientes", "Família"],
+    "favorite": false,
+    "_id": 90
+  },
+  {
+    "name": "Samanta Bonfim",
+    "phone": "+55 98 995324-2908",
+    "groups": ["Trabalho", "Academia"],
+    "favorite": false,
+    "_id": 91
+  },
+  {
+    "name": "Carla Moura",
+    "phone": "+55 92 998759-6115",
+    "groups": ["Amigos", "Vizinhos", "Jogos"],
+    "favorite": false,
+    "_id": 92
+  },
+  {
+    "name": "Yago Duarte",
+    "phone": "+55 87 991443-1410",
+    "groups": ["Fornecedores", "Família", "Escola"],
+    "favorite": true,
+    "_id": 93
+  },
+  {
+    "name": "Felipe Renato Rezende",
+    "phone": "+55 31 990480-3106",
+    "groups": ["Vizinhos", "Clientes", "Academia"],
+    "favorite": false,
+    "_id": 94
+  },
+  {
+    "name": "Samanta Costa",
+    "phone": "+55 11 992699-5369",
+    "groups": ["Amigos", "Vizinhos", "Clientes"],
+    "favorite": true,
+    "_id": 95
+  },
+  {
+    "name": "Renato Teixeira",
+    "phone": "+55 31 997592-3693",
+    "groups": ["Academia"],
+    "favorite": true,
+    "_id": 96
+  },
+  {
+    "name": "Natan Carvalho",
+    "phone": "+55 85 995287-3852",
+    "groups": ["Faculdade", "Vizinhos"],
+    "favorite": false,
+    "_id": 97
+  },
+  {
+    "name": "Tiago Azevedo",
+    "phone": "+55 96 992141-6302",
+    "groups": ["Escola", "Jogos", "Faculdade"],
+    "favorite": true,
+    "_id": 98
+  },
+  {
+    "name": "Iara Alves",
+    "phone": "+55 94 994422-4568",
+    "groups": ["Faculdade", "Fornecedores", "Família"],
+    "favorite": false,
+    "_id": 99
+  },
+  {
+    "name": "Quésia Cardoso",
+    "phone": "+55 82 990981-7484",
+    "groups": ["Jogos", "Clientes"],
+    "favorite": false,
+    "_id": 100
+  }
+]
