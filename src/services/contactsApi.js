@@ -1,4 +1,4 @@
-const url = "http://localhost:4000";
+const url = "https://api-projeto-contatos.vercel.app";
 
 export const getAllContacts = async () => {
   try {
