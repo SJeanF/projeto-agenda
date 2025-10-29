@@ -1,4 +1,4 @@
-const uri = "https://api-projeto-contatos.vercel.app/";
+const uri = "https://api-projeto-contatos.vercel.app";
 
 export const getAllGroups = async () => {
   try {
